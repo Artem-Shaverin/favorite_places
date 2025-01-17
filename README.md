@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # favorite_places
 
 Favorite Places App
