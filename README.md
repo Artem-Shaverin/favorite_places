@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # favorite_places
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# favorite_places
+>>>>>>> bc774d9d368e5355f23acf922b87bd0c74289114
