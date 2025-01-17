@@ -3,18 +3,14 @@
 
 Favorite Places App
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+A mobile application built with Flutter that allows users to save and organize their favorite places. The app enables users to add a new place by providing a title, taking a photo with the camera, and selecting a location via current geolocation or an interactive map. Each place is stored in a persistent database for future access, with detailed views showing the photo, address, and location on a map. The app integrates native device features such as camera usage and geolocation to offer a smooth and user-friendly experience.
 
-A few resources to get you started if this is your first Flutter project:
+Key Technologies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# favorite_places
->>>>>>> bc774d9d368e5355f23acf922b87bd0c74289114
+Frontend: Flutter, Dart
+Database: SQLite
+Map Integration: Mapbox, flutter_map 
+State Management: Riverpod
+Camera Integration: image_picker
