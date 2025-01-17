@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # favorite_places
 
-A new Flutter project.
+Favorite Places App
 
 ## Getting Started
 
