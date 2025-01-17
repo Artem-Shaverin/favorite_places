@@ -5,6 +5,12 @@ A mobile application built with Flutter that allows users to save and organize t
 ## Key Technologies
 - **Frontend**: Flutter, Dart
 - **Database**: SQLite
-- **Map Integration**: Mapbox, flutter_map
+- **Map Integration**: Mapbox, flutter_map, latlong2
 - **State Management**: Riverpod
 - **Camera Integration**: image_picker
+- **Geolocation**: location, geocoding
+- **File Storage**: path_provider, path
+- **UUID Generation**: uuid
+- **Networking**: http
+- **Fonts**: google_fonts
+- **iOS Compatibility**: cupertino_icons
